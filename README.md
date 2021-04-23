@@ -66,35 +66,33 @@ pip install stock_info
 
 ## Directory Tree 
 ```
-├── static 
-    ├── a.png
-    ├──csk.png
+├── lib
+    ├──a.png
+    ├──b.png
     ├──dc.png
-    ├──rcb.png
-    ├──kkr.png
-    ├──rr.png
-    ├──mi.png
-    ├──srh.png
-    ├──kxip.png
-    ├──background.png
-    ├──ipl-favicon.ico
-├── template
-    ├── index.html
-    ├── predict_score.html
-    ├── score.html
-    ├── predict_winner.html
-    ├── winner.html
-├── readme_resources
-    ├── ipl-first-innings-score-web-app.gif
-    ├── application-error-heroku.png
-├── README.md
-├── app.py
-├── score.pkl
-├── score.ipynb
-├── winner.pkl
-├── winner.ipynb
-├── requirements.txt
-├── Procfile
+    ├──c.png
+    ├──d.png
+    ├──desktop.ini
+    ├──exit.png
+    ├──initiating system.png
+    ├──iron man.png
+    ├──jarvis.png
+    ├──loading.gif
+    ├──tuse.png
+├── Material
+    ├──Final Report.pdf
+    ├──jarvis_gif.gif
+    ├──Mid Term Report.pdf
+    ├──Presentation.pdf
+    ├──Synopsis.pdf
+├──hahaha.wav
+├──LICENSE
+├──model.h5
+├──README.md
+├──rec.qrc
+├──rec_rc.py
+├──run.py
+├──scifi.ui
 ```
 
 ## Technologies Used
