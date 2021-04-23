@@ -8,7 +8,7 @@ Jarvis or J.A.R.V.I.S. is an artificial intelligence computer system which assis
 
 
 #### A glimpse of the web app:
- ![MP4](Material/jarvis_gif.mp4)
+ ![GIF](Material/jarvis_gif.gif)
 
 ## Table of Content
   * [Demo](#demo)
