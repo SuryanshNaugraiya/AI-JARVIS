@@ -43,9 +43,25 @@ AI JARVIS has 19 functionalities :-
 Who doesn't want to have the luxury to own an assistant who always listens for your call, anticipates your every need, and takes action when necessary? That luxury is now available thanks to artificial intelligence-based voice assistants. Finally it is important to work on application (real world application) to actually make a difference.
 
 ## Installation
-The Code is written in Python 3.9.2 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+The Code is written in Python 3.9.2 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To run this project in your system, after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository, install the required packages and libraries:
 ```bash
-pip install -r requirements.txt
+pip install pyttsx3
+pip install random
+pip install re
+pip install smtplib
+pip install winsound
+pip install wikipedia
+pip install sys
+pip install os
+pip install webbrowser
+pip install datetime
+pip install speech_recognition
+pip install urllib
+pip install PyQt5
+pip install geopy
+pip install bs4
+pip install yahoo_fin
+pip install stock_info
 ```
 
 ## Directory Tree 
