@@ -1,7 +1,6 @@
 # AI-JARVIS-VOICE-ASISTANT
 Jarvis or J.A.R.V.I.S. is an artificial intelligence computer system which assists the Iron Man i.e. Tony Stark. J.A.R.V.I.S. (Just a Rather Very Intelligent System) was also introduced in the comic books as the program that helps operate Pepper Potts’ Rescue suit. Jarvis software is a very intelligent A.I. who can respond according to the users thoughts.
 
-
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) 
 ![pysstx3](https://img.shields.io/badge/Library-pysstx3-orange.svg)
 ![speech_recognition](https://img.shields.io/badge/Library-speech_recognition-blue.svg)
@@ -20,7 +19,7 @@ Jarvis or J.A.R.V.I.S. is an artificial intelligence computer system which assis
 ![bs4](https://img.shields.io/badge/Library-bs4-yellow.svg)
 ![urllib](https://img.shields.io/badge/Library-urllib-orange.svg)
 
-#### A glimpse of the web app:
+#### A glimpse of the project:
  ![GIF](Material/jarvis_gif.gif)
 
 ## Table of Content
