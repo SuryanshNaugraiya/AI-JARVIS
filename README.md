@@ -46,6 +46,9 @@ AI JARVIS has 19 functionalities :-
 8) **To find the location of city or place**
 9) **Greeting according to time**
 10)**To search anything on google**
+11)**To know about Jarvis**
+12)**To send the email**
+
 
 
 
