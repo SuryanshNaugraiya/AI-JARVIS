@@ -38,6 +38,8 @@ Link: [https://youtu.be/c5g8Q0sDR0g](https://youtu.be/c5g8Q0sDR0g)
 AI JARVIS has 19 functionalities :-
 1) **Predicts the innings Score**
 2) **Predicts the winner of the match**
+3) **Predicting the current condition and temperature**
+4) **To play a song**
 
 ## Motivation
 Who doesn't want to have the luxury to own an assistant who always listens for your call, anticipates your every need, and takes action when necessary? That luxury is now available thanks to artificial intelligence-based voice assistants. Finally it is important to work on application (real world application) to actually make a difference.
