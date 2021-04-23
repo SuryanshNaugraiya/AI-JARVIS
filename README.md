@@ -38,16 +38,22 @@ Link: [https://youtu.be/c5g8Q0sDR0g](https://youtu.be/c5g8Q0sDR0g)
 AI JARVIS has 19 functionalities :-
 1) **Predicts the innings Score**
 2) **Predicts the winner of the match**
-3) **Predicting the current condition and temperature**
-4) **To play a random song**
-5) **To open any application**
-6) **To search anything on wikipedia**
-7) **To predicting the current stock price of amazon**
-8) **To find the location of city or place**
-9) **Greeting according to time**
-10) **To search anything on google**
-11) **To know about Jarvis**
-12) **To send the email**
+3) **Predicting the current condition of any place**
+4) **Predicting the current temperature**
+5) **To play a random song**
+6) **To open any application**
+7) **To search anything on wikipedia**
+8) **To predicting the current stock price of amazon**
+9) **To find the location of city or place**
+10) **Greeting according to time**
+11) **To search anything on google**
+12) **To know about Jarvis**
+13) **To send the email**
+14) **To open any website**
+15) **To tell joke**
+16) **To provide the top news of current time**
+17) **To know about Jarvis's age**
+
 
 
 
