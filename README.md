@@ -1,5 +1,5 @@
 # AI-JARVIS-VOICE-ASISTANT
-Jarvis or J.A.R.V.I.S. is an artificial intelligence computer system which assists the Iron Man i.e. Tony Stark. J.A.R.V.I.S. (Just a Rather Very Intelligent System) was also introduced in the comic books as the program that helps operate Pepper Potts’ Rescue suit. Jarvis software is a very intelligent A.I. who can respond according to the users thoughts.
+AI-JARVIS is an intelligent voice assistant or personal assistant that can perform tasks or services for an individual based on verbal commands i.e. by interpreting human speech and respond via synthesized voices. Users can ask their assistants’ questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, to-do lists, open or close any application etc with verbal commands.
 
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) 
 ![pysstx3](https://img.shields.io/badge/Library-pysstx3-orange.svg)
@@ -27,16 +27,15 @@ Jarvis or J.A.R.V.I.S. is an artificial intelligence computer system which assis
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
 ## Demo
-Link: [https://ipl-prediciton-1.herokuapp.com/](https://ipl-prediciton-1.herokuapp.com/)
+Link: [https://youtu.be/c5g8Q0sDR0g](https://youtu.be/c5g8Q0sDR0g)
 
 ## Overview
-This is a Flask web app and it has 2 functionalities.
+AI JARVIS has 19 functionalities :-
 1) **Predicts the innings Score**
 2) **Predicts the winner of the match**
 
@@ -49,13 +48,6 @@ The Code is written in Python 3.9.2 If you don't have Python installed you can f
 ```bash
 pip install -r requirements.txt
 ```
-
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
@@ -94,20 +86,14 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
-
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
+[<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
+[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 ## Bug / Feature Request
-
-• If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/SuryanshNaugraiya/IPL/issues) here by including your search query and the expected result.<br />
-• If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
-• Sorry for the inconvenience.
-
-![Heroku-Error](readme_resources/application-error-heroku.png)
-
+• If you find a bug, kindly open an [issue](https://github.com/SuryanshNaugraiya/AI-JARVIS/issues) here by including your search query and the expected result.<br />
 
 ## Future Scope
-
 * Implement machine learning and deep learning algorithms
 * Add multiple features
 * Make front-end more attractive
