@@ -42,6 +42,8 @@ AI JARVIS has 19 functionalities :-
 4) **To play a random song**
 5) **To open any application**
 6) **To search anything on wikipedia**
+7) **To predicting the current stock price of amazon**
+
 
 
 ## Motivation
