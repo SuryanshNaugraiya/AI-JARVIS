@@ -103,7 +103,6 @@ pip install stock_info
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
 [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
-[<img target="_blank" src="https://i.morioh.com/201019/591a2486.webp" width=150>](https://pyttsx3.org/stable/)
 
 ## Bug / Feature Request
 • If you find a bug, kindly open an [issue](https://github.com/SuryanshNaugraiya/AI-JARVIS/issues) here by including your search query and the expected result.<br />
