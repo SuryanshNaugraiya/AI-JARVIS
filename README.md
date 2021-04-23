@@ -53,6 +53,8 @@ AI JARVIS has 19 functionalities :-
 15) **To tell joke**
 16) **To provide the top news of current time**
 17) **To know about Jarvis's age**
+18) **To search anything on Youtube**
+19) **To stop the program**
 
 
 
