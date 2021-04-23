@@ -43,6 +43,9 @@ AI JARVIS has 19 functionalities :-
 5) **To open any application**
 6) **To search anything on wikipedia**
 7) **To predicting the current stock price of amazon**
+8) **To find the location of city or place**
+9) **Greeting according to time**
+10)**To search anything on google**
 
 
 
