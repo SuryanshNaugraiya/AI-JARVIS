@@ -1,10 +1,13 @@
 # AI-JARVIS-VOICE-ASISTANT
 AI-JARVIS is an intelligent voice assistant or personal assistant that can perform tasks or services for an individual based on verbal commands i.e. by interpreting human speech and respond via synthesized voices. Users can ask their assistants’ questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, to-do lists, open or close any application etc with verbal commands.
 
+<div align="center">
+
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg) 
 ![pysstx3](https://img.shields.io/badge/Library-pysstx3-orange.svg)
 ![speech_recognition](https://img.shields.io/badge/Library-speech_recognition-blue.svg)
 ![random](https://img.shields.io/badge/Library-random-red.svg)
+
 ![re](https://img.shields.io/badge/Library-re-yellow.svg)
 ![smtplib](https://img.shields.io/badge/Library-smtplib-pink.svg)
 ![winsound](https://img.shields.io/badge/Library-winsound-brown.svg)
@@ -13,14 +16,19 @@ AI-JARVIS is an intelligent voice assistant or personal assistant that can perfo
 ![os](https://img.shields.io/badge/Library-os-violet.svg)
 ![webbrowser](https://img.shields.io/badge/Library-webbrowser-red.svg)
 ![datetime](https://img.shields.io/badge/Library-datetime-green.svg)
+
 ![PyQt5](https://img.shields.io/badge/Library-PyQt5-orange.svg)
 ![yahoo_fin](https://img.shields.io/badge/Library-yahoo_fin-purple.svg)
 ![geopy](https://img.shields.io/badge/Library-geopy-pink.svg)
 ![bs4](https://img.shields.io/badge/Library-bs4-yellow.svg)
 ![urllib](https://img.shields.io/badge/Library-urllib-orange.svg)
+</div>
 
 #### A glimpse of the project:
+ <div align="center">
+ 
  ![GIF](Material/jarvis_gif.gif)
+ </div>
 
 ## Table of Content
   * [Demo](#demo)
